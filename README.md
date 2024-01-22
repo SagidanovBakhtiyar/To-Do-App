@@ -1,5 +1,5 @@
 # To-Do App
-#### Video Demo: https://youtu.be/g0njblrkeqQ
+
 #### Description:
 Welcome to the To-Do app, a simple yet powerful command-line tool designed to streamline your task management process. This project empowers users to organize their tasks efficiently through a set of intuitive menu options. Below, we'll explore the key features of the app, the structure of the code, and some design considerations.
 
